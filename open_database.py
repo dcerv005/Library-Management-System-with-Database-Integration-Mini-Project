@@ -4,7 +4,7 @@ from mysql.connector import Error
 def connect_database():
     db_name = 'library_management_db'
     user= 'root'
-    password = 'Dc418289!'
+    password = 'password'
     host = 'localhost'
 
     try:
